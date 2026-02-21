@@ -1,0 +1,4 @@
+src/components/StudentFeatures.tsx(174,25): error TS6133: 'props' is declared but its value is never read.
+src/components/StudentFeatures.tsx(227,23): error TS6133: 'props' is declared but its value is never read.
+src/components/StudentFeatures.tsx(262,28): error TS6133: 'props' is declared but its value is never read.
+src/components/StudentFeatures.tsx(311,23): error TS6133: 'props' is declared but its value is never read.

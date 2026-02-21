@@ -1,0 +1,12 @@
+src/components/StudentFeatures.tsx(174,25): error TS6133: 'props' is declared but its value is never read.
+src/components/StudentFeatures.tsx(227,23): error TS6133: 'props' is declared but its value is never read.
+src/components/StudentFeatures.tsx(262,28): error TS6133: 'props' is declared but its value is never read.
+src/components/StudentFeatures.tsx(311,23): error TS6133: 'props' is declared but its value is never read.
+src/main.ts(49,5): error TS7053: Element implicitly has an 'any' type because expression of type '"Authorization"' can't be used to index type 'HeadersInit'.
+  Property 'Authorization' does not exist on type 'HeadersInit'.
+src/main.ts(514,56): error TS6133: 'idx' is declared but its value is never read.
+src/main.ts(534,56): error TS6133: 'idx' is declared but its value is never read.
+src/main.ts(881,37): error TS6133: 'root' is declared but its value is never read.
+src/main.ts(881,59): error TS6133: 'auth' is declared but its value is never read.
+src/main.ts(1191,49): error TS6133: 'auth' is declared but its value is never read.
+src/main.ts(1382,50): error TS6133: 'auth' is declared but its value is never read.
